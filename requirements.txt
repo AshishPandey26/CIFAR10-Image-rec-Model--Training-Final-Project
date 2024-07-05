@@ -1,0 +1,7 @@
+Tensorflow, 
+Numpy, 
+Pandas, 
+Keras, 
+open-cv, 
+Matplotlib
+and cifar10 Dataset
